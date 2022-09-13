@@ -11,25 +11,28 @@
     height: 200px;  
 }
 .fa-bell{
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 190px;
-    border: 1px solid;
-    border-radius: 100px;
-    background-color: darkblue;
+    padding-left: 110px;
+
 }
 #text{
     margin-top: 35px;
-    height: 45px;
+    height: 50px;
     font-family: sans-serif;
-    width: 350px;
+    width: 420px;
     font-size:larger;
+    font-weight: bold;
+    color: black;
 }
 #password{
     margin-top: 15px;
-    height: 45px;
+    height: 50px;
     font-family: sans-serif;
-    width: 350px;
+    width: 420px;
     font-size:larger;
+    font-weight: bold;
+    color: black;
 }
 #submit{
     margin-top: 10px;
@@ -38,6 +41,7 @@
     background-color: dimgray;
     color: white;
     font-family: sans-serif;
+    font-weight: bold;
 }
 .fono{
     margin-top: 15px;
