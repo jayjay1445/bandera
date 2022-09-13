@@ -1,0 +1,79 @@
+.container{
+    width: 480px;
+    margin: auto;
+    background-color: white;
+}
+.ban{
+    background-color: darkblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 200px;  
+}
+.fa-bell{
+    font-size: 50px;
+    margin-top: 190px;
+    border: 1px solid;
+    border-radius: 100px;
+    background-color: darkblue;
+}
+#text{
+    margin-top: 35px;
+    height: 45px;
+    font-family: sans-serif;
+    width: 350px;
+    font-size:larger;
+}
+#password{
+    margin-top: 15px;
+    height: 45px;
+    font-family: sans-serif;
+    width: 350px;
+    font-size:larger;
+}
+#submit{
+    margin-top: 10px;
+    width: 60px;
+    height: 40px;
+    background-color: dimgray;
+    color: white;
+    font-family: sans-serif;
+}
+.fono{
+    margin-top: 15px;
+}
+.forp{
+    font-family: sans-serif;
+    color: black;
+    margin-bottom: 10px;
+}
+.enr{
+    margin-top: 10px;
+}
+.note{
+    margin-top: 10px;
+    color: black;
+    font-family: sans-serif;
+}
+.rege{
+    font-family: sans-serif;
+}
+.if{
+    font-family: sans-serif;
+}
+.please{
+    color: red;
+    font-family: sans-serif;
+}
+.fdi{
+    width: 80px;
+    margin-top: 40px;
+}
+.len{
+    width: 80px;
+}
+.ver{
+    padding-left: 100px;
+    margin-top: -120px;
+    font-family: sans-serif;
+}
