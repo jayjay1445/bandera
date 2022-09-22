@@ -81,3 +81,198 @@
     margin-top: -120px;
     font-family: sans-serif;
 }
+
+/*HOME.html*/
+.containern{
+    width: 480px;
+    margin: auto;
+    background-color: white;
+}
+.banim{
+
+}
+.navbar{
+    display: flex;
+    background-color: royalblue;
+    margin-top: 5px;
+}
+.colu{
+    padding-right: 75px;
+    padding-left: 30px;
+}
+.monb{
+    padding-right: 75px;
+}
+.rot{
+    padding-right: 75px;
+}
+.build{
+    margin-top: 10px;
+}
+.trans{
+    margin-top: 30px;
+}
+.his{
+    margin-top: 10px;
+}
+.colu > .link >a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}.colu > .link >a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.monb > .link >a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}.monb > .link >a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.rot > .link >a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}.rot > .link >a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.header{
+    display: flex;
+    background-color: darkblue;
+    height: 90px;
+}
+.user2{
+    padding-right: 70px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.banim{
+    padding-right: 70px;
+    margin: 10px;
+}
+.menu2{
+    margin-top: 10px;
+}
+.summ{
+    background-color: darkblue;
+    height: 30px;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 10px;
+    margin: 10px;
+    font-family: sans-serif;
+    font-size: x-large;
+    margin-top: -10px;
+}
+.ecing{
+    border: 1px solid royalblue;
+    background-color: gainsboro;
+}
+.avb{
+    padding-left: 270px;
+}
+.avbb{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.aba{
+    color: grey;
+    font-weight: bolder;
+}
+.ecingg{
+    border: 1px solid royalblue;
+    margin-top: 10px;
+    background-color: gainsboro;
+}
+.foot{
+    margin-top: 10px;
+}
+/*TRAMSFER*/
+.frmall{
+    padding-left: 30px;
+    width: 400px;
+    border: 1px solid black;
+}
+.selfr{
+    border: none;
+    width: 390px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.toall{
+    margin-top: 40px;
+    padding-left: 30px;
+    border: 1px solid black;
+    width: 390px;
+}
+.accn{
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+}
+.rtnum{
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+}
+.rcrep{
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+.amt{
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: large;
+    width: 380px;
+    height: 40px;
+}
+.frmalll{
+    padding-left: 30px;
+    width: 400px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.memo{
+    margin-top: 15px;
+    width: 390px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    border: 1px solid black;
+    height: 40px;
+}
+.secpi{
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    border: 1px solid black;
+    height: 40px;
+}
+#submit1{
+    margin-top: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: dimgray;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
