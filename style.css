@@ -100,10 +100,14 @@
 .banim{
 
 }
+.link{
+    margin-top: 5px;
+}
 .navbar{
     display: flex;
     background-color: royalblue;
     margin-top: 5px;
+    height: 100px;
 }
 .colu{
     padding-right: 75px;

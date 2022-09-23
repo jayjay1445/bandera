@@ -9,5 +9,14 @@ if(text=="Julie" && password=="tania"){
 } else{
     alert("Incorrect username or password")
 }
+}
 
+var btn=document.getElementById('sub');
+btn.onclick= function(){
+    alert('Welcome back Julie Veatch')
+}
+
+var btn2=document.getElementById('subno');
+btn2.onclick= function(){
+    alert('')
 }
