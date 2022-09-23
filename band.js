@@ -1,7 +1,7 @@
 function validateform()
 {
-    const text = document.getElementById('text').value;
-const password =document.getElementById('password').value;
+    var text = document.getElementById('text').value;
+var password =document.getElementById('password').value;
 
 if(text=="Julie" && password=="tania"){
 
