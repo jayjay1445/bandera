@@ -34,6 +34,12 @@
     font-weight: bold;
     color: black;
 }
+.pass{
+    padding-left: 10px;
+}
+.log{
+    padding-left: 10px;
+}
 #submit{
     margin-top: 10px;
     width: 60px;
