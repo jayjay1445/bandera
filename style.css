@@ -4,7 +4,7 @@
     background-color: white;
 }
 .ban{
-    background-color: darkblue;
+    background-color: darkblue ;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -165,7 +165,7 @@
 }
 .user2{
     padding-right: 70px;
-    padding-left: 30px;
+    padding-left: 40px;
     margin-top: 10px;
 }
 .banim{
@@ -181,17 +181,17 @@
     color: white;
     font-family: sans-serif;
     padding-left: 10px;
-    margin: 10px;
     font-family: sans-serif;
     font-size: x-large;
     margin-top: -10px;
+    width: 480px;
 }
 .ecing{
     border: 1px solid royalblue;
     background-color: gainsboro;
 }
 .avb{
-    padding-left: 270px;
+    padding-left: 250px;
 }
 .avbb{
     font-weight: bolder;
@@ -214,6 +214,13 @@
     padding-left: 30px;
     width: 400px;
     border: 1px solid black;
+    margin: 10px;
+}
+.frm{
+    font-size: small;
+}
+.tt{
+    font-size: small;
 }
 .selfr{
     border: none;
@@ -253,7 +260,7 @@
     margin-top: 20px;
     font-family: sans-serif;
     font-size: large;
-    width: 380px;
+    width: 400px;
     height: 40px;
 }
 .frmalll{
@@ -263,16 +270,20 @@
     margin-top: 20px;
 }
 .memo{
-    margin-top: 15px;
-    width: 390px;
+    margin-top: 25px;
+    width: 400px;
     height: 30px;
     font-size: large;
     font-family: sans-serif;
     border: 1px solid black;
     height: 40px;
 }
+.secppp{
+    margin: 15px;
+    padding-left: 0px;
+}
 .secpi{
-    margin-top: 15px;
+    margin-top: 0px;
     width: 300px;
     height: 30px;
     font-size: large;
@@ -289,17 +300,20 @@
     font-family: sans-serif;
     font-weight: bold;
 }
+.acs{
+    width: 480px;
+}
 .dateall{
     border: 1px solid black;
     padding-left: 20px;
-    width: 400px;
+    width: 480px;
     background-color: gainsboro;
 }
 .date{
     font-family: sans-serif;
     font-size: large;
     width: 350px;
-    padding-left: 80px;
+    padding-left: 140px;
 }
 .all{
     display: flex;
@@ -320,4 +334,49 @@
     font-family: sans-serif;
     font-size: large;
     color: green;   
+}
+.navvbar >.firstul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.navvbar >.firstul >li{
+    display: inline-block;
+}
+.navvbar >.firstul >li >a{
+    color: white;
+    text-decoration: none;
+    display: block;padding: 15px;
+    font-family: sans-serif;
+    font-size: small;
+}
+.navvbar >.firstul >li >a:hover{
+    text-decoration: underline;
+    color: teal;
+}
+.drop{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: none;
+}
+.drop >li >a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: small;
+    padding: 10px;
+    background-color: red;
+}
+.drop >li >a:hover{
+    text-decoration: underline;
+    color: teal;
+}
+.navvbar >.firstul >li:hover .drop{
+    display: block; 
+}
+.ct{
+    margin-top: 10px;
+    background-color: dimgray;
 }
